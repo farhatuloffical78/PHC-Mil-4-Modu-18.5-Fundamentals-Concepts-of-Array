@@ -18,4 +18,4 @@ let abc = 45;
 abc = 99;
 
 numbers[1] = 999;
-console.log(numbers)
+console.log(numbers);
